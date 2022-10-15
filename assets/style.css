@@ -89,10 +89,12 @@ p{
     display: flex;
     justify-content: space-between;
 } */
+
 #skills img {
     width: 67px;
     height: 67px;
 }
+
 .portfolio{
     height: 540px;
 }
