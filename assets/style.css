@@ -60,14 +60,35 @@ body {
     font-size: 53px;
     line-height: 132px;
 }
-.about-me{
-    height: 500px;
-}
 .first-screen h4 {
     margin-top: -3px;
     margin-bottom: 25px;
 }
-
+.about-me{
+    height: 500px;
+}
+#skills ul li{
+    list-style: none;
+    text-align: center;
+}
+#skills img {
+    width: 67px;
+    height: 67px;
+    margin-bottom: 57px;
+    align-items:center;
+}
+.skills{
+    margin-bottom: 20px;
+}
+.header3{
+    font-weight: 700;
+    font-size: 31px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.p{
+    margin-bottom: 50px;
+}
 .header2 {
     font-weight: 700;
     font-size: 35px;
@@ -82,25 +103,9 @@ p{
     text-align-last: center;
     margin-top: 30px;
 }
-.header3{
-    font-weight: 700;
-    font-size: 31px;
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 50px;
-}
-/* .skills ul{
-    list-style: none;
-} */
-/* .skills ul li{
-    display: flex;
-    justify-content: space-between;
-} */
 
-#skills img {
-    width: 67px;
-    height: 67px;
-}
+
+
 
 .portfolio{
     height: 540px;
