@@ -23,9 +23,8 @@ body {
     margin: 0 auto;
 }
 
-.container-grey{
-    width: 100%;
-    margin: 0 auto;
+.portfolio{
+    
     background-color: gainsboro;
     text-align: center;
 }
